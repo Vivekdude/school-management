@@ -40,6 +40,11 @@ export default function RootLayout({ children }) {
                   </a>
                 </li>
                 <li>
+                  <a href="#gallery" className="hover:underline">
+                    Gallery
+                  </a>
+                </li>
+                <li>
                   <a href="#contact" className="hover:underline">
                     Contact
                   </a>
